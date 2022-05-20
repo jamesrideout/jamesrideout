@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, music and weightlifting 
 - 🌱 I’m currently learning HTML, CSS, Javascript and Python
 - 💞️ I’m looking to collaborate on any beginner coding projects to develop my skills
-- 📫 How to reach me ...
+- 📫 How to reach me ...<james_rideout@hotmail.co.uk>
 
 <!---
 jamesrideout/jamesrideout is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
