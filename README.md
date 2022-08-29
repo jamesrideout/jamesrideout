@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamesrideout
 - 👀 I’m interested in coding, music and weightlifting 
-- 🌱 I’m currently learning HTML, CSS, Javascript/React/Redux and Python
+- 🌱 I’m currently learning HTML, CSS, Javascript/React/Redux and Python/C#
 - 💞️ I’m looking to collaborate on any beginner coding projects to develop my skills
 - 📫 How to reach me ...<james_rideout@hotmail.co.uk>
 
